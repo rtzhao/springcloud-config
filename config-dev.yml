@@ -1,1 +1,2 @@
-
+config:
+  info: "main bench,springcoud-config/config-dev.yml version1"
